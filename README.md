@@ -4,9 +4,7 @@
 SFWGEC is a tool to convert [Skype for Web](https://web.skype.com) animated emotes into GIF usable anywhere.
 
 
-&nbsp;&nbsp;&nbsp;...<br/>
-![](http://i.imgur.com/YtN1JdB.png) &nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp; ![](http://i.imgur.com/XPOItrc.gif)
-<br/>&nbsp;&nbsp;&nbsp;...
+![Skype for web PNG resource](http://i.imgur.com/YtN1JdB.png) => ![Generated GIF](http://i.imgur.com/XPOItrc.gif)  
 
 
 ## Dependencies
